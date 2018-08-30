@@ -99,6 +99,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="GenerateSqlDatabaseScript\CashRegisterDB.sql" />
     <Content Include="ItemModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>ItemModel.edmx</DependentUpon>

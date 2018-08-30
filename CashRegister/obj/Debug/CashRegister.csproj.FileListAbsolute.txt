@@ -10,3 +10,15 @@ C:\Users\firas\Documents\Visual Studio 2017\Projects\CashRegister\CashRegister\b
 C:\Users\firas\Documents\Visual Studio 2017\Projects\CashRegister\CashRegister\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\firas\Documents\Visual Studio 2017\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.csproj.CopyComplete
 C:\Users\firas\Documents\Visual Studio 2017\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.csprojAssemblyReference.cache
+C:\Users\firas\Source\Repos\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+C:\Users\firas\Source\Repos\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+C:\Users\firas\Source\Repos\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+C:\Users\firas\Source\Repos\CashRegister\CashRegister\bin\Debug\EntityFramework.dll
+C:\Users\firas\Source\Repos\CashRegister\CashRegister\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\firas\Source\Repos\CashRegister\CashRegister\bin\Debug\EntityFramework.xml
+C:\Users\firas\Source\Repos\CashRegister\CashRegister\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\firas\Source\Repos\CashRegister\CashRegister\obj\Debug\CashRegister.csprojAssemblyReference.cache
+C:\Users\firas\Source\Repos\CashRegister\CashRegister\obj\Debug\CashRegister.csproj.CoreCompileInputs.cache
+C:\Users\firas\Source\Repos\CashRegister\CashRegister\obj\Debug\CashRegister.csproj.CopyComplete
+C:\Users\firas\Source\Repos\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+C:\Users\firas\Source\Repos\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
