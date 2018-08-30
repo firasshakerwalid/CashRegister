@@ -56,6 +56,7 @@ namespace CashRegister
     foreach (var item in allItems) { WriteLine("{0}:{1}$", item.Name.TrimEnd(), item.Price); }
     WriteLine("Total Price:{0}$", itemTotalPrice - itemTotalPrice * discountCoupon * 0.01);
     ReadLine();
+    Clear();
    }
   }
   private static Item GetItemId()
